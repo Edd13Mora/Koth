@@ -1,62 +1,18 @@
-# Koth
-A tool that can help while solving CTF challenges!
 ![Hackira](/Behj8RUCYAAR42X.jpg)
-# Project Title
+# Koth H3lper
 
-A short description about the project and/or client.
+A tool that can help while solving CTF challenges!
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+You can use this tool while playing THM or HTB challenges, by starting it first!
+It will start Nmap/dirsearch/wp-scan and many other tools automaticaly, you can add other tools if you want!
+It will also generat rapport of the result given by the tools in a .txt files!
 
 ### Prerequisites
 
-The things you need before installing the software.
-
-* You need this
-* And you need this
-* Oh, and don't forget this
-
-### Installation
-
-A step by step guide that will tell you how to get the development environment up and running.
-
-```
-$ First step
-$ Another step
-$ Final step
-```
+You will need to Install the tools you mentioned on the script or only use it on Kali linux directlyis
 
 ## Usage
 
-A few examples of useful commands and/or tasks.
-
-```
-$ First example
-$ Second example
-$ And keep this in mind
-```
-
-## Deployment
-
-Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
-
-### Server
-
-* Live:
-* Release:
-* Development:
-
-### Branches
-
-* Master:
-* Feature:
-* Bugfix:
-* etc...
-
-## Additional Documentation and Acknowledgments
-
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
+Python3 Koth.py
