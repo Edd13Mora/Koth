@@ -5,9 +5,7 @@ A tool that can help while solving CTF challenges!
 
 ## Getting Started
 
-You can use this tool while playing THM or HTB challenges, by starting it first!
-It will start Nmap/dirsearch/wp-scan and many other tools automaticaly, you can add other tools if you want!
-It will also generat rapport of the result given by the tools in a .txt files!
+You can use this tool while playing THM or HTB challenges, by starting it first! It will start Nmap/dirsearch/wp-scan and many other tools automatically, you can add other tools if you want! It will also generate reports in .txt files!
 
 ### Prerequisites
 
